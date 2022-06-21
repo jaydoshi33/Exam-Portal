@@ -3,37 +3,37 @@
 ## Technology Used:-
 
 Spring Boot (For Rest API Development)</br>
-Angular (For Frontend)
-H2 In Memory Database (For Database)
-Swagger (For Documentation of API)
+Angular (For Frontend)</br>
+H2 In Memory Database (For Database)</br>
+Swagger (For Documentation of API)</br>
 
 
 ## Software Needed to run:-
 
-Eclipse/Intellij IDEA/STS (To run microservices)
-VS Code/ Web Strom (To run angular)
-Postman (To Test the api)
-Maven (As a dependency management tool) 
+Eclipse/Intellij IDEA/STS (To run microservices)</br>
+VS Code/ Web Strom (To run angular)</br>
+Postman (To Test the api)</br>
+Maven (As a dependency management tool)</br> 
 
 
 ## Authorization Microservice
-Run authorization microservice first
-Running on port number: 5000
+Run authorization microservice first</br>
+Running on port number: 5000</br>
 
 ## Default credentials to Login
-Username:- vaibhav15  (role-> normal user)
-password:- test123
+Username:- vaibhav15  (role-> normal user)</br>
+password:- test123</br>
 
-Username:- rahul15    (role-> admin user)
-password:- test123
+Username:- rahul15    (role-> admin user)</br>
+password:- test123</br>
 
 ## Admin Microservice
-Run admin microservice 
-Running on port number: 8080
+Run admin microservice</br> 
+Running on port number: 8080</br>
 
 ## Normal User Microservice
-Run normal microservice
-Running on port number: 8081
+Run normal microservice</br>
+Running on port number: 8081</br>
 
 ## Swagger URL for Admin Microservice
 
