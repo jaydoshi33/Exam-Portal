@@ -2,18 +2,18 @@
 
 ## Technology Used:-
 
--> Spring Boot (For Rest API Development)
--> Angular (For Frontend)
--> H2 In Memory Database (For Database)
--> Swagger-> For Documentation of API 
+Spring Boot (For Rest API Development)
+Angular (For Frontend)
+H2 In Memory Database (For Database)
+Swagger (For Documentation of API)
 
 
 ## Software Needed to run:-
 
--> Eclipse/Intellij IDEA/STS (To run microservices)
--> VS Code/ Web Strom (To run angular)
--> Postman (To Test the api)
--> Maven (As a dependency management tool) 
+Eclipse/Intellij IDEA/STS (To run microservices)
+VS Code/ Web Strom (To run angular)
+Postman (To Test the api)
+Maven (As a dependency management tool) 
 
 
 ## Authorization Microservice
