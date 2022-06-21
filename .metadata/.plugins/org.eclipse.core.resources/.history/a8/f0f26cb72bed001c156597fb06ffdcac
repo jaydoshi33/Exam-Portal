@@ -1,0 +1,8 @@
+package com.cognizant.admin.models;
+
+public class Snippet {
+	public static void main(String[] args) {
+		questions.size()
+	}
+}
+

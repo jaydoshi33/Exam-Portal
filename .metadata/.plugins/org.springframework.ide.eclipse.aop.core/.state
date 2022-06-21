@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="normal-user-service"/>
+<aop-project name="authorization-serive"/>
+<aop-project name="admin-service"/>
+</aop-reference-model>

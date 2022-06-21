@@ -1,0 +1,11 @@
+package com.cognizant.admin.models;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class Result {
+	private double marksGot;
+	private int correctAnswer;
+	private int attempted;
+
+}

@@ -1,0 +1,5 @@
+package com.cognizant.admin.models;
+
+public class Result {
+
+}
