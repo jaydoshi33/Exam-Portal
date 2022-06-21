@@ -2,7 +2,7 @@
 
 ## Technology Used:-
 
-Spring Boot (For Rest API Development)/n
+Spring Boot (For Rest API Development)_
 Angular (For Frontend)
 H2 In Memory Database (For Database)
 Swagger (For Documentation of API)
